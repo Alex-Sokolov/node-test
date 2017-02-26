@@ -1,7 +1,7 @@
 # node-test
 
-[Само задание](./node-test.md)
-[Код сервера](./server.js)
+- [Само задание](./node-test.md)
+- [Код сервера](./server.js)
 
 ## Build Setup
 
